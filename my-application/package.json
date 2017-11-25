@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "nrfi@sbcglobal.net <scott.m.rushford@gmail.com>",
-  "license": "MIT",
   "scripts": {
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
